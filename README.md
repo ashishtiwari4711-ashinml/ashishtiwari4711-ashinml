@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 About Me
+Hi, I'm **Ashish Tiwari** — a master's student in **Data Science, AI & Digital Business** at **GISMA University of Applied Sciences, Potsdam (Germany)**.  
+I’m passionate about applying **machine learning and data analytics** to real-world business challenges.
 
-<!--
-**ashishtiwari4711-ashinml/ashishtiwari4711-ashinml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently expanding my skills in **Python, Machine Learning, and Data Visualization**
+- 💡 Interested in **data-driven decision making**, **AI automation**, and **business intelligence**
+- 🧠 Focus areas: Data Analysis, Predictive Modeling, Statistical Learning, and Business Insights
+- 🌍 Based in **Berlin, Germany**, open to data-related internships and collaborations
+- ⚙️ Tools I use: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Jupyter, Excel, and Power BI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** [ashishtiwari4711@gmail.com](mailto:ashishtiwari4711@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ashishtiwari](https://linkedin.com/in/ashishtiwari)
