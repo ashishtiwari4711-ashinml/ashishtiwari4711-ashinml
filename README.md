@@ -9,4 +9,4 @@ I’m passionate about applying **machine learning and data analytics** to real-
 - ⚙️ Tools I use: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Jupyter, Excel, and Power BI
 
 📫 **Reach me at:** [ashishtiwari4711@gmail.com](mailto:ashishtiwari4711@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ashishtiwari](https://linkedin.com/in/ashishtiwari)
+
