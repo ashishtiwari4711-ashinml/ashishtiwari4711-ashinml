@@ -8,5 +8,7 @@ I’m passionate about applying **machine learning and data analytics** to real-
 -  Based in **Berlin, Germany**, open to data-related internships and collaborations
 -  Tools I use: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Jupyter, Excel, and Power BI
 
- **Reach me at:** [ashishtiwari4711@gmail.com](mailto:ashishtiwari4711@gmail.com)  
+ **Reach me at:** 
+ **Email:**[ashishtiwari4711@gmail.com](mailto:ashishtiwari4711@gmail.com)  
+ **LinkedIn :** https://www.linkedin.com/in/ashish-tiwari-5537b92a5/
 
